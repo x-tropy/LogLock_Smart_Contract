@@ -15,13 +15,13 @@ const apiUrl = process.env.ALCHEMY_API_URL
 // <!important> Use JsonRpcProvider to connect to a sepolia testnet
 // ------------------------------------------------------------
 
-// Provider
+// Step 1. Provider
 const alchemyProvider = new ethers.providers.JsonRpcProvider(apiUrl)
 
-// Signer
+// Step 2. Signer
 const signer = new ethers.Wallet(privateKey, alchemyProvider)
 
-// Contract
+// Step 3. Contract
 const contract = new ethers.Contract(address, abi, signer)
 
 const main = async () => {
