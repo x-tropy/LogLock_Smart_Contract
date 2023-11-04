@@ -52,7 +52,7 @@ main()
 
 1. This script is not going to be called by hardhat, we put it here only for easier file organization.
 2. We need to import ethers, and also call `require("dotenv").config()` before accessing environment variables.
-3. **:warning: Important!**: Use `JsonRpcProvider` to connect to a sepolia testnet. AlchemyProvider in ethers v5 doesn't support sepolia.
+3. **:warning: Important**: Use `JsonRpcProvider` to connect to a sepolia testnet. AlchemyProvider in ethers v5 doesn't support sepolia.
 4. In the `main()` function, we have tried to call the `notarize` function to notarize a `genesis log` and also test it with `verify` function.
 
 ## Developer notes
