@@ -1,8 +1,8 @@
 ![loglock logo](https://extropy.dev/loglock.svg)
 
-# :chains: Smart contract deployment
+# :chains: Smart contract development
 
-This smart contract is already deployed on ethereum Sepolia test net. You can check it out using [etherscan](https://sepolia.etherscan.io/address/0xd078377970eA26c29FeFa1410018A84ed861cc21). The contract address is: **0xd078377970eA26c29FeFa1410018A84ed861cc21**
+This smart contract is already deployed on Ethereum Sepolia test net. You can check it out using [etherscan](https://sepolia.etherscan.io/address/0xd078377970eA26c29FeFa1410018A84ed861cc21). The contract address is: `0xd078377970eA26c29FeFa1410018A84ed861cc21`
 
 ## Usage
 
