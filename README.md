@@ -1,3 +1,9 @@
+# Building LogLock
+
+<!-- add image -->
+
+![loglock logo](https://extropy.dev/loglock.svg)
+
 用 npm 安装，不要用 bun，不要用 bun，不要用 bun！
 
 `npm install --save-dev @nomiclabs/hardhat-ethers "ethers@^5.7.2"`
