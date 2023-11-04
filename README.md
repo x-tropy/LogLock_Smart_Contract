@@ -1,4 +1,4 @@
-# Building LogLock
+# :chains:Building LogLock
 
 <!-- add image -->
 
