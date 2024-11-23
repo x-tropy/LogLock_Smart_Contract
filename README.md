@@ -1,4 +1,4 @@
-![loglock logo](https://extropy.dev/loglock.svg)
+![loglock logo](https://loglock.pages.dev/images/loglock.svg)
 
 # :chains: Smart contract development
 
